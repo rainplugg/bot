@@ -1,0 +1,96 @@
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\Search.exe
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\Search.deps.json
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\Search.runtimeconfig.json
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\Search.runtimeconfig.dev.json
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\Search.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\Search.pdb
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\IndexRange.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\WTelegramClient.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dimab\Desktop\Search\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dimab\Desktop\Search\obj\Debug\netcoreapp3.1\Search.csproj.AssemblyReference.cache
+C:\Users\dimab\Desktop\Search\obj\Debug\netcoreapp3.1\Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimab\Desktop\Search\obj\Debug\netcoreapp3.1\Search.AssemblyInfoInputs.cache
+C:\Users\dimab\Desktop\Search\obj\Debug\netcoreapp3.1\Search.AssemblyInfo.cs
+C:\Users\dimab\Desktop\Search\obj\Debug\netcoreapp3.1\Search.csproj.CoreCompileInputs.cache
+C:\Users\dimab\Desktop\Search\obj\Debug\netcoreapp3.1\Search.csproj.CopyComplete
+C:\Users\dimab\Desktop\Search\obj\Debug\netcoreapp3.1\Search.dll
+C:\Users\dimab\Desktop\Search\obj\Debug\netcoreapp3.1\Search.pdb
+C:\Users\dimab\Desktop\Search\obj\Debug\netcoreapp3.1\Search.genruntimeconfig.cache
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\Search.exe
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\Search.deps.json
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\Search.runtimeconfig.json
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\Search.runtimeconfig.dev.json
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\Search.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\Search.pdb
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\IndexRange.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\WTelegramClient.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\obj\Debug\netcoreapp3.1\Search.csproj.AssemblyReference.cache
+C:\Users\Константин\Desktop\Кошачья папка\Search\obj\Debug\netcoreapp3.1\Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Константин\Desktop\Кошачья папка\Search\obj\Debug\netcoreapp3.1\Search.AssemblyInfoInputs.cache
+C:\Users\Константин\Desktop\Кошачья папка\Search\obj\Debug\netcoreapp3.1\Search.AssemblyInfo.cs
+C:\Users\Константин\Desktop\Кошачья папка\Search\obj\Debug\netcoreapp3.1\Search.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\Кошачья папка\Search\obj\Debug\netcoreapp3.1\Search.csproj.CopyComplete
+C:\Users\Константин\Desktop\Кошачья папка\Search\obj\Debug\netcoreapp3.1\Search.dll
+C:\Users\Константин\Desktop\Кошачья папка\Search\obj\Debug\netcoreapp3.1\Search.pdb
+C:\Users\Константин\Desktop\Кошачья папка\Search\obj\Debug\netcoreapp3.1\Search.genruntimeconfig.cache
